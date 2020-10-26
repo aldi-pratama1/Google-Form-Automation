@@ -12,7 +12,8 @@ import requests
 
 
 #headers = ["no","email","nama","nama_kegiatan","jenis_kegiatan","tanggal_mulai","bulan_mulai","tahun_mulai","tanggal_selesai","bulan_selesai","tahun_selesai","durasi_pelaksanaan"]
-df = pd.read_csv('https://raw.githubusercontent.com/aldi-pratama1/Google-Form-Automation/main/test%20form_3.csv?token=AQD4HB3IMBO2Z7PHAEVEU5C7SQGN4', header = 0)
+df = pd.read_csv('https://github.com/aldi-pratama1/Google-Form-Automation/raw/main/Dataset/test%20form_3.csv', header = 0)
+
 
 
 # In[130]:

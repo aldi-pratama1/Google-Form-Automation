@@ -33,7 +33,7 @@ bulan_selesai = df.bulan_selesai.to_list()
 tahun_selesai = df.tahun_selesai.to_list()
 durasi = df.Durasi_Pelaksanaan.to_list()
 
-start_record = 1
+start_record = 24
 
 i = start_record-1
 while i < no[i]:
